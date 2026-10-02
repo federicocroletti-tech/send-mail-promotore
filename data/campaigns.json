@@ -1,0 +1,22 @@
+[
+  {
+    "id": "promo-informatica",
+    "name": "Presentazione servizi informatici",
+    "listId": "informatica",
+    "subject": "Supporto informatico e sviluppo su misura",
+    "fromName": "Federico",
+    "replyTo": "",
+    "updatedAt": "2026-10-02T00:00:00.000Z",
+    "body": "Ciao {{name}},\n\nsono Federico, sviluppatore informatico. Ti contatto per presentarti alcuni servizi che possono aiutare la tua attivita:\n\n{{services}}\n\nSe puo essere utile, possiamo sentirci per capire cosa serve davvero e preparare una proposta snella.\n\nGrazie,\nFederico"
+  },
+  {
+    "id": "promo-identita-digitale",
+    "name": "Presentazione identita digitale",
+    "listId": "identita-digitale",
+    "subject": "Servizi digitali per semplificare la tua attivita",
+    "fromName": "Federico",
+    "replyTo": "",
+    "updatedAt": "2026-10-02T00:00:00.000Z",
+    "body": "Ciao {{name}},\n\nsto preparando una proposta dedicata ai servizi digitali e alla gestione dell'identita digitale.\n\n{{services}}\n\nSe vuoi, possiamo sentirci per capire quali strumenti possono semplificare il lavoro quotidiano.\n\nGrazie,\nFederico"
+  }
+]

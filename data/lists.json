@@ -1,0 +1,14 @@
+[
+  {
+    "id": "informatica",
+    "name": "Promozione informatica",
+    "description": "Contatti per sviluppo software, siti, supporto IT e automazioni.",
+    "createdAt": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "id": "identita-digitale",
+    "name": "Identita digitale",
+    "description": "Lista pronta per una futura offerta su identita digitale e servizi collegati.",
+    "createdAt": "2026-10-02T00:00:00.000Z"
+  }
+]
