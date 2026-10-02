@@ -31,8 +31,8 @@ npm run build
 npm start
 ```
 
-Build command: `npm install && npm run build`
+Build command: `npm ci && npm run build`
 Start command: `npm start`
 Health check: `/health`
 
-Per Render puoi usare `render.yaml` come Blueprint. Le variabili SMTP sono marcate come secret e vanno inserite solo nella dashboard Render, mai nel repository. Se il piano Render non permette il disk persistente, rimuovi la sezione `disk` e lascia `DATA_DIR` non impostata: l'app resta avviabile, ma i JSON possono resettarsi ai riavvii.
+Per Render puoi usare `render.yaml` come Blueprint gratuito (`plan: free`). Il deploy pubblico parte senza SMTP: l'app permette di gestire liste e template, ma il bottone di invio resta disabilitato finche non configuri le variabili SMTP nella dashboard Render. La configurazione gratuita non include un disk persistente: l'app resta avviabile, ma i JSON possono resettarsi ai riavvii. Se in futuro vuoi storico persistente anche su Render, aggiungi un disk e imposta `DATA_DIR` al relativo mount path.
