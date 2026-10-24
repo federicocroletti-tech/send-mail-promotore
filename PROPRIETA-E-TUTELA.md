@@ -1,0 +1,13 @@
+# Proprieta e tutela - send-mail-promotore
+
+Copyright (c) 2026 Federico Croletti, per i soli contributi originali di cui detiene i diritti, secondo la sua dichiarazione. Template, contatti e materiali di terzi esclusi.
+
+Licenze e autorizzazioni preesistenti restano valide. Per i contributi originali senza altra licenza o accordo applicabile, tutti i diritti sono riservati nei limiti di legge.
+
+Proposta preliminare: documentare la gestione di campagne email e la prevenzione dei duplicati per eventuale registrazione software. Confrontare send_mail_promotore prima di scegliere la versione. Confermare autori, titolarita, linguaggi e prima pubblicazione; escludere destinatari reali e credenziali dall'esemplare.
+
+Preparato il 15 ottobre 2026; anno dell'avviso, non prova della creazione. Nessun deposito effettuato; brevettabilita non accertata, da valutare con un professionista su una soluzione tecnica documentata.
+
+## Regime delle versioni dal 24 ottobre 2026
+
+Per le versioni future dei contributi originali di cui Federico Croletti detiene i diritti si applica il file `LICENSE` di questo repository. Le copie e le versioni precedenti distribuite con una licenza diversa, inclusa MIT, restano soggette ai relativi termini e ai permessi gia concessi; questi non vengono revocati. Componenti e materiali di terzi restano soggetti alle rispettive licenze. Il diritto d'autore tutela l'espressione originale, non le idee astratte, i metodi o le funzionalita.
